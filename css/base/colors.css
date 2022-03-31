@@ -1,0 +1,11 @@
+:root {
+    --primary-hue: 6;
+    --primary-saturation: 94%;
+    --primary-lightness: 69%;
+    --primary-color: hsl(
+        var(--primary-hue),
+        var(--primary-saturation),
+        var(--primary-lightness)
+    );
+}
+
