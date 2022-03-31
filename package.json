@@ -34,5 +34,5 @@
         "build": "vite --config build/vite.config.ts build ./", 
         "preview": "vite --config build/vite.config.ts preview ./"
     },
-    "style": "dist/assets/index.css"
+    "style": "dist/assets/ice.css"
 }

@@ -11,6 +11,7 @@ export default defineConfig({
                 base: "css/base.css",
                 handheld: "css/handheld.css",
                 screen: "css/screen.css",
+                ice: "css/ice.css",
                 index: "index.html",
             },
             output: {
